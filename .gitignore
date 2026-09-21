@@ -1,0 +1,12 @@
+# OpenSCAD / CAD output
+*.stl
+*.3mf
+*.gcode
+cad/out/
+
+# PlatformIO / Arduino
+.pio/
+build/
+
+# OS
+.DS_Store
